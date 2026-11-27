@@ -1,2 +1,2 @@
 # attendance-students
-Система учёта посещаемости студентов
+Версия из ветки conflict-test.
